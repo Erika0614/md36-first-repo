@@ -1,0 +1,8 @@
+En este bloque hemos aprendido a usar una terminal y como entrar a nuestros archivos, por otro lado que es git y 
+github. son platatformas que nos ayudan controlar y tener orden en nuestras versiones de algun proyecto 
+que estemos realizando, la diferencia es que uno es virtual y funciona como una nube como es el caso de Gitub 
+donde podremos encontrar diversos repositorios, también podremos subir los nuestros para que otros los vean e
+interactuar con otros desarrolladores.
+
+Aprendimos a usar comandos para subir repositorios desde Git a GitHub a travez de la terminal, como git add -A 
+que es para guardar todos los cambios. 
